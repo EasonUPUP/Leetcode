@@ -1,4 +1,4 @@
-// Just dfs or bfs the boundry, then change. Limited area search is the key point
+// just dfs or bfs the boundry, then change. Limited area search is the key point
 /* 
 Given a 2D board containing 'X' and 'O' (the letter O), capture all regions surrounded by 'X'.
 
