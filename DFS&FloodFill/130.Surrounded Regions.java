@@ -1,4 +1,6 @@
 // just dfs or bfs the boundry, then change. Limited area search is the key point
+// https://leetcode-cn.com/problems/surrounded-regions/solution/bfsdi-gui-dfsfei-di-gui-dfsbing-cha-ji-by-ac_pipe/
+
 /* 
 Given a 2D board containing 'X' and 'O' (the letter O), capture all regions surrounded by 'X'.
 
